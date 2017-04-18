@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2016.4 (64-bit)
+# SW Build 1733598 on Wed Dec 14 22:35:39 MST 2016
+# IP Build 1731160 on Wed Dec 14 23:47:21 MST 2016
+# Start of session at: Mon Apr 17 22:32:33 2017
+# Process ID: 8872
+# Current directory: D:/project/IDU_SOC/IDU_SOC.sim/sim_1/behav
+# Command line: wbtcv.exe -mode batch -source D:/project/IDU_SOC/IDU_SOC.sim/sim_1/behav/xsim.dir/IDU_testbench_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: D:/project/IDU_SOC/IDU_SOC.sim/sim_1/behav/webtalk.log
+# Journal file: D:/project/IDU_SOC/IDU_SOC.sim/sim_1/behav\webtalk.jou
+#-----------------------------------------------------------
+source D:/project/IDU_SOC/IDU_SOC.sim/sim_1/behav/xsim.dir/IDU_testbench_behav/webtalk/xsim_webtalk.tcl -notrace

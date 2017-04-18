@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="IDU_testbench_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="IDU_testbench" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="648500000fs"></ZoomStartTime>
+      <ZoomEndTime time="1070500001fs"></ZoomEndTime>
+      <Cursor1Time time="1000000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="121"></NameColumnWidth>
+      <ValueColumnWidth column_width="50"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="13" />
+   <wvobject fp_name="/IDU_testbench/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/IDU_testbench/Instruction" type="array">
+      <obj_property name="ElementShortName">Instruction[20:0]</obj_property>
+      <obj_property name="ObjectShortName">Instruction[20:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/IDU_testbench/opcode" type="array">
+      <obj_property name="ElementShortName">opcode[3:0]</obj_property>
+      <obj_property name="ObjectShortName">opcode[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/IDU_testbench/shift_rotate_operation" type="array">
+      <obj_property name="ElementShortName">shift_rotate_operation[3:0]</obj_property>
+      <obj_property name="ObjectShortName">shift_rotate_operation[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/IDU_testbench/Operand_Selection" type="logic">
+      <obj_property name="ElementShortName">Operand_Selection</obj_property>
+      <obj_property name="ObjectShortName">Operand_Selection</obj_property>
+   </wvobject>
+   <wvobject fp_name="/IDU_testbench/X_address" type="array">
+      <obj_property name="ElementShortName">X_address[7:0]</obj_property>
+      <obj_property name="ObjectShortName">X_address[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/IDU_testbench/Y_address" type="array">
+      <obj_property name="ElementShortName">Y_address[7:0]</obj_property>
+      <obj_property name="ObjectShortName">Y_address[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/IDU_testbench/Conditional" type="logic">
+      <obj_property name="ElementShortName">Conditional</obj_property>
+      <obj_property name="ObjectShortName">Conditional</obj_property>
+   </wvobject>
+   <wvobject fp_name="/IDU_testbench/Jump" type="logic">
+      <obj_property name="ElementShortName">Jump</obj_property>
+      <obj_property name="ObjectShortName">Jump</obj_property>
+   </wvobject>
+   <wvobject fp_name="/IDU_testbench/Jump_address" type="array">
+      <obj_property name="ElementShortName">Jump_address[7:0]</obj_property>
+      <obj_property name="ObjectShortName">Jump_address[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/IDU_testbench/Condition_flag" type="logic">
+      <obj_property name="ElementShortName">Condition_flag</obj_property>
+      <obj_property name="ObjectShortName">Condition_flag</obj_property>
+   </wvobject>
+   <wvobject fp_name="/IDU_testbench/Exp" type="logic">
+      <obj_property name="ElementShortName">Exp</obj_property>
+      <obj_property name="ObjectShortName">Exp</obj_property>
+   </wvobject>
+   <wvobject fp_name="/IDU_testbench/clk_period" type="other">
+      <obj_property name="ElementShortName">clk_period</obj_property>
+      <obj_property name="ObjectShortName">clk_period</obj_property>
+   </wvobject>
+</wave_config>

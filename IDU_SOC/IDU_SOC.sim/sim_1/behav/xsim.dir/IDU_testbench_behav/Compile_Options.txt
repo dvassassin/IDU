@@ -1,0 +1,1 @@
+-wto "be2bf571cfe44ab49f8211d818406fde" --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "IDU_testbench_behav" "xil_defaultlib.IDU_testbench" -log "elaborate.log" 
